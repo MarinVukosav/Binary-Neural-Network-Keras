@@ -21,3 +21,6 @@ Miscellanous files (Do not Remove):<br/>
 - binary_layers.py <br/>
 ### (Results_validate Folder)
 - bnn_ip_binary.py (This is for fun to visualize the actual binarization of the input images)
+####
+If you are having trouble with Tenserflow installation, try using `python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.5.0-py3-none-any.whl`
+Also, it works only with python 3.4 - 3.6 and tensorflow version 1.5 
